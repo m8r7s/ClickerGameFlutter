@@ -1,4 +1,4 @@
-# Projet Clicker Game – Prénom Nom
+# Projet Clicker Game – PBenoit-Joseph Bernier - ESGI2
 
 ## Présentation
 
