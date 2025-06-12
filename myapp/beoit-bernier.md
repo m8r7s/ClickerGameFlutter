@@ -1,4 +1,4 @@
-# Projet Clicker Game – PBenoit-Joseph Bernier - ESGI2
+# Projet Clicker Game – Benoit-Joseph Bernier - ESGI2
 
 ## Présentation
 
