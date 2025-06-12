@@ -16,5 +16,5 @@ Ce projet est un petit jeu de type *Clicker Game* développé en Flutter. Le jou
 
 ## Dépôt Git
 
-👉 [Lien vers le dépôt Git (public ou privé avec invitation pour @Glandalf)](https://github.com/m8r7s/ClickerGameFlutter)
+👉 [Lien vers le dépôt Git](https://github.com/m8r7s/ClickerGameFlutter)
 
